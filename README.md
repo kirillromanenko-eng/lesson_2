@@ -1,2 +1,2 @@
-# lesson_2
-lesson_2
+# Name: lesson_2
+Diskription ouwer first lesson_2
